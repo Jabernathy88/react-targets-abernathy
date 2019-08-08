@@ -1,0 +1,2 @@
+class TargetCompany < ApplicationRecord
+end
