@@ -5,7 +5,7 @@ ruby '2.4.2'
 
 # Misc
 gem 'foreman'
-gem 'rubocop', '~> 0.67.2', require: false
+# gem 'rubocop', '~> 0.67.2', require: false
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
